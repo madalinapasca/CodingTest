@@ -1,0 +1,15 @@
+C:\Madalina\.NET stuff\Try2\Try2\bin\Debug\net6.0\Try2.exe
+C:\Madalina\.NET stuff\Try2\Try2\bin\Debug\net6.0\Try2.deps.json
+C:\Madalina\.NET stuff\Try2\Try2\bin\Debug\net6.0\Try2.runtimeconfig.json
+C:\Madalina\.NET stuff\Try2\Try2\bin\Debug\net6.0\Try2.dll
+C:\Madalina\.NET stuff\Try2\Try2\bin\Debug\net6.0\Try2.pdb
+C:\Madalina\.NET stuff\Try2\Try2\obj\Debug\net6.0\Try2.csproj.AssemblyReference.cache
+C:\Madalina\.NET stuff\Try2\Try2\obj\Debug\net6.0\Try2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Madalina\.NET stuff\Try2\Try2\obj\Debug\net6.0\Try2.AssemblyInfoInputs.cache
+C:\Madalina\.NET stuff\Try2\Try2\obj\Debug\net6.0\Try2.AssemblyInfo.cs
+C:\Madalina\.NET stuff\Try2\Try2\obj\Debug\net6.0\Try2.csproj.CoreCompileInputs.cache
+C:\Madalina\.NET stuff\Try2\Try2\obj\Debug\net6.0\Try2.dll
+C:\Madalina\.NET stuff\Try2\Try2\obj\Debug\net6.0\refint\Try2.dll
+C:\Madalina\.NET stuff\Try2\Try2\obj\Debug\net6.0\Try2.pdb
+C:\Madalina\.NET stuff\Try2\Try2\obj\Debug\net6.0\Try2.genruntimeconfig.cache
+C:\Madalina\.NET stuff\Try2\Try2\obj\Debug\net6.0\ref\Try2.dll
