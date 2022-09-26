@@ -42,7 +42,7 @@ namespace Try2
 
             for (int seconds = 30; seconds > 0; seconds--)
             {
-                Console.Write("\rPawwsord for {0}: {1} -> valid for {2} seconds. (from {3} to {4})", userId, password, seconds, validFrom.ToLongTimeString(), validTo.ToLongTimeString());
+                Console.Write("\rPassword for {0}: {1} -> valid for {2} seconds. (from {3} to {4})", userId, password, seconds, validFrom.ToLongTimeString(), validTo.ToLongTimeString());
 
                 System.Threading.Thread.Sleep(1000);
             }
